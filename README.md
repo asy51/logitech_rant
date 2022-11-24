@@ -1,5 +1,5 @@
 # logitech_rant
-Logitech no good no more, but it was once.
+Logitech no good no more, but 'twas once.
 
 <img src="https://user-images.githubusercontent.com/90255040/203677708-cdb7c823-df2f-4871-97f3-b25990f87b06.png" width="400" />
 
